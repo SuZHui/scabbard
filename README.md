@@ -1,2 +1,2 @@
-# scabbard
+# Scabbard
 blade in the scabbard
